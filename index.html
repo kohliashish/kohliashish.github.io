@@ -585,5 +585,17 @@ The Dataset and Approach For this project, I used a Pokémon images dataset avai
     <script src="https://kohliashish.github.io/portfolio/js/plugins.js"></script>
     <script src="https://kohliashish.github.io/portfolio/js/main.js"></script>
 
+    <script>
+        if (window.netlifyIdentity) {
+          window.netlifyIdentity.on("init", (user) => {
+            if (!user) {
+              window.netlifyIdentity.on("login", () => {
+                document.location.href = "/admin/";
+              });
+            }
+          });
+        }
+      </script>
+
 </body>
 </html>
