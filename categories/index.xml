@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ashish Kohli</title>
-    <link>https://kohliashish.github.io/portfolio/categories/</link>
+    <link>https://kohliashish.github.io/categories/</link>
     <description>Recent content in Categories on Ashish Kohli</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 25 Aug 2024 12:23:18 -0700</lastBuildDate>
-    <atom:link href="https://kohliashish.github.io/portfolio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kohliashish.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analytics</title>
-      <link>https://kohliashish.github.io/portfolio/categories/analytics/</link>
+      <link>https://kohliashish.github.io/categories/analytics/</link>
       <pubDate>Sun, 25 Aug 2024 12:23:18 -0700</pubDate>
-      <guid>https://kohliashish.github.io/portfolio/categories/analytics/</guid>
+      <guid>https://kohliashish.github.io/categories/analytics/</guid>
       <description></description>
     </item>
     <item>
       <title>Product Ideas</title>
-      <link>https://kohliashish.github.io/portfolio/categories/product-ideas/</link>
+      <link>https://kohliashish.github.io/categories/product-ideas/</link>
       <pubDate>Sun, 25 Aug 2024 12:23:18 -0700</pubDate>
-      <guid>https://kohliashish.github.io/portfolio/categories/product-ideas/</guid>
+      <guid>https://kohliashish.github.io/categories/product-ideas/</guid>
       <description></description>
     </item>
     <item>
       <title>Data Science</title>
-      <link>https://kohliashish.github.io/portfolio/categories/data-science/</link>
+      <link>https://kohliashish.github.io/categories/data-science/</link>
       <pubDate>Sat, 21 Aug 2021 12:00:00 -0700</pubDate>
-      <guid>https://kohliashish.github.io/portfolio/categories/data-science/</guid>
+      <guid>https://kohliashish.github.io/categories/data-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Image Classification</title>
-      <link>https://kohliashish.github.io/portfolio/categories/image-classification/</link>
+      <link>https://kohliashish.github.io/categories/image-classification/</link>
       <pubDate>Sat, 21 Aug 2021 12:00:00 -0700</pubDate>
-      <guid>https://kohliashish.github.io/portfolio/categories/image-classification/</guid>
+      <guid>https://kohliashish.github.io/categories/image-classification/</guid>
       <description></description>
     </item>
   </channel>
