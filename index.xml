@@ -6,8 +6,15 @@
     <description>Recent content on Ashish Kohli</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Aug 2024 12:23:18 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 11:07:29 -0700</lastBuildDate>
     <atom:link href="https://kohliashish.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://kohliashish.github.io/product/first-post/</link>
+      <pubDate>Wed, 04 Sep 2024 11:07:29 -0700</pubDate>
+      <guid>https://kohliashish.github.io/product/first-post/</guid>
+      <description>Hello World</description>
+    </item>
     <item>
       <title>The Practical Applications of Large Language Models in Optimizing Database Queries</title>
       <link>https://kohliashish.github.io/blog/the-practical-applications-of-large-language-models-in-optimizing-database-queries/</link>

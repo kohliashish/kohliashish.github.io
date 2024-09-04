@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kohliashish.github.io/categories/analytics/</loc>
-    <lastmod>2024-08-25T12:23:18-07:00</lastmod>
-  </url><url>
     <loc>https://kohliashish.github.io/</loc>
+    <lastmod>2024-09-05T12:00:00-07:00</lastmod>
+  </url><url>
+    <loc>https://kohliashish.github.io/product/first-post/</loc>
+    <lastmod>2024-09-04T11:07:29-07:00</lastmod>
+  </url><url>
+    <loc>https://kohliashish.github.io/categories/analytics/</loc>
     <lastmod>2024-08-25T12:23:18-07:00</lastmod>
   </url><url>
     <loc>https://kohliashish.github.io/categories/</loc>
